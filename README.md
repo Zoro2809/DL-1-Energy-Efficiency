@@ -1,23 +1,15 @@
-# 🧠 Deep Learning Lab Assignment — DL-1
+# 🧠 Deep Learning Project — DL-1
 ### Energy Efficiency Prediction using Neural Networks from Scratch & TensorFlow/Keras
 
 ---
 
-## 👤 Student Details
 
-| Field | Details |
-|---|---|
-| **Name** | Harsh Kumar |
-| **PRN** | 202301100054 |
-| **Batch** | Deep Learning — 4 |
-| **Assignment** | DL-1 |
-| **Platform** | Google Colab |
 
 ---
 
 ## 📌 Project Overview
 
-This assignment implements a **2-layer Multilayer Perceptron (MLP)** entirely from scratch using NumPy to predict the **Heating Load** of buildings based on 8 architectural features. It then replicates the same experiments using **TensorFlow/Keras** for validation and comparison.
+This Project implements a **2-layer Multilayer Perceptron (MLP)** entirely from scratch using NumPy to predict the **Heating Load** of buildings based on 8 architectural features. It then replicates the same experiments using **TensorFlow/Keras** for validation and comparison.
 
 The primary goal is to develop deep intuition for:
 - **Forward & Backward Propagation** (manually coded)
@@ -307,7 +299,3 @@ DL-1/
 - Add `R² score` alongside MSE for regression evaluation
 - Export trained weights to `.npy` files for reproducibility
 - Add early stopping callback in Keras experiments
-
----
-
-*Made with ❤️ for academic submission — Deep Learning Lab, Batch 4*
